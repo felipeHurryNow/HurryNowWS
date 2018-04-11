@@ -1,2 +1,10 @@
+com\hurrynow\hurrynowws\services\UbicationService.class
+com\hurrynow\hurrynowws\services\BranchOfficeService.class
+com\hurrynow\hurrynowws\services\ProductService.class
+com\hurrynow\hurrynowws\services\StoreServices.class
+com\hurrynow\hurrynowws\model\BranchOffice.class
+com\hurrynow\hurrynowws\model\Ubication.class
+com\hurrynow\hurrynowws\model\Product.class
 com\hurrynow\hurrynowws\model\Client.class
-com\hurrynow\hurrynowws\services\Service.class
+com\hurrynow\hurrynowws\services\ClientService.class
+com\hurrynow\hurrynowws\model\Store.class

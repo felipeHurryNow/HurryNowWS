@@ -21,8 +21,8 @@ import javax.ws.rs.core.MediaType;
  * @author felip
  */
 
-@Path("service")
-public class Service {
+@Path("serviceClient")
+public class ClientService {
     
     private static Map<Integer, Client> clients = new HashMap<Integer,Client>(); 
     

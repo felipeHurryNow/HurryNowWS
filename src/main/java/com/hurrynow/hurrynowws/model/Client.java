@@ -19,7 +19,7 @@ import javax.xml.bind.annotation.XmlType;
 public class Client {
     private String address; 
     private String email;
-    private int    idCliente; 
+    private int    idClient; 
     private String lastName; 
     private String name; 
     private String password;
@@ -47,11 +47,11 @@ public class Client {
 
     @XmlElement 
     public int getIdCliente() {
-        return idCliente;
+        return idClient;
     }
 
-    public void setIdCliente(int idCliente) {
-        this.idCliente = idCliente;
+    public void setIdCliente(int idClient) {
+        this.idClient = idClient;
     }
     
     @XmlElement 
